@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gleezy96
-- 👀 I’m interested in using penetration testing and cyber defense.
+- 👀 I’m interested in penetration testing and cyber defense.
 - 🌱 I’m currently building vulnerable labs to test my pen test methodology and system building skills.
 
 <!---
